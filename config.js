@@ -11,7 +11,7 @@ const CONFIG = {
   btnNo: "Không, anh bị đin à >.<",
   question: "Yêu anh không <3",
   btnReply: "Anh không biết đâu",
-  reply: "dạ vâng <3Anh thức trắng đêm vừa học làm cái trò mèo này đấy",
+  reply: "dạ vâng <3 SẾN QUÁ Anh thức trắng đêm vừa học làm cái trò mèo này đấy",
   mess: "Đùa đấy, Lo mà đi chơi với người ta đi",
   messDesc: "Anh sẽ vào đó sớm thôi, anh sẽ cạnh tranh dù em có nói gì",
   btnAccept: "Cưng quá đi thoai <3",
